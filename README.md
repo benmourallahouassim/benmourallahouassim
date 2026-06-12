@@ -46,12 +46,39 @@
 ---
 
 ### 💼 Recent Experience & Academic Projects
+# 👋 Hello, I'm Wassim Benmourallah
 
-* 🏥 **AI in e-Health & Computer Vision (Current PFE):** Designing and developing **HYGEIA**, a comprehensive health technology platform integrating AI-assisted tracking features. Implementing advanced **YOLO-based image segmentation** for object detection and refining regression model accuracy for calorie estimation using datasets like **Nutrition5k**.
-* 🖊️ **IoT & Embedded Systems (Smart Pen Project):** Engineered **Ouwi Smart**, an embedded system designed for real-time handwriting analysis and reconstruction. Integrated IMU sensors (MPU-6050) with an **ESP32** microcontroller, leveraging wireless communication protocols to stream sensor data to a **Python/Flask** backend with a dynamic Tkinter monitoring interface.
-* 🌐 **Full-Stack Web Development:** Developed and deployed responsive e-commerce solutions. Proficient in building modern frontends with **React** and scalable, robust backend services using **Django** and **FastAPI**.
-* 📱 **Cross-Platform Mobile Development:** Configured and engineered professional mobile environments using the **Flutter & Dart SDK** for cross-platform applications.
-* 🖥️ **Computer Science Foundations:** Strong grasp of core theoretical concepts, including process synchronization (monitors, semaphores), network routing, and deadlock prevention using the **Banker's Algorithm**.
+I am a passionate software developer focused on building intelligent systems that bridge the gap between hardware and software. My expertise spans across AI/Computer Vision, IoT embedded systems, and Full-Stack web development.
+
+---
+
+### 💼 Recent Experience & Academic Projects
+
+* 🏥 **HYGEIA - AI in e-Health & Computer Vision (PFE):** Designing and developing a comprehensive health technology platform integrating AI-assisted tracking features. Implementing advanced **YOLO-based image segmentation** for object detection and refining regression model accuracy for calorie estimation using **Nutrition5k** datasets.
+
+* 🖊️ **Ouwi Smart Pen - IoT & Embedded Systems:** Engineered an embedded system for real-time handwriting analysis. Integrated IMU sensors (**MPU-6050**) with an **ESP32** microcontroller, leveraging wireless protocols to stream data to a **Python/Flask** backend with a dynamic **Tkinter** monitoring interface.
+
+* 📚 **Smart Library Management System :** Developed an intelligent web-based library platform to streamline book tracking and member management. Features an integrated **AI Chatbot** to provide instant support for library resource navigation.
+
+* 🌐 **Full-Stack Development:** Proficient in building modern, responsive frontends with **React** and scalable backend services using **Django** and **FastAPI**.
+
+* 📱 **Mobile Development:** Engineered professional cross-platform applications using the **Flutter & Dart SDK**.
+
+* 🖥️ **Computer Science Foundations:** Strong grasp of core theoretical concepts: Process synchronization (monitors, semaphores), network routing, and deadlock prevention algorithms.
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** Python, Dart, JavaScript/TypeScript.
+- **Backend/AI:** Django, FastAPI, Flask, PyTorch/TensorFlow (YOLO).
+- **Embedded/IoT:** ESP32, Arduino, C++.
+- **Tools:** Git, Docker, Flutter, PostgreSQL, SQLite.
+
+---
+
+### 📬 Let's Connect
+- **GitHub:** [benmourallahouassim](https://github.com/benmourallahouassim)
+- **LinkedIn:** (Put your link here)
 
 ---
 
