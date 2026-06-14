@@ -78,7 +78,9 @@ I am a passionate software developer focused on building intelligent systems tha
 
 ### 📬 Let's Connect
 - **GitHub:** [benmourallahouassim](https://github.com/benmourallahouassim)
-- **LinkedIn:** (Put your link here)
+- **LinkedIn:** (www.linkedin.com/in/
+ouassim-benmourallah-14659740b
+
 
 ---
 
